@@ -42,7 +42,7 @@
 		"grammars": [
 			{
 				"language": "asp",
-				"scopeName": "source.asp",
+				"scopeName": "source.answersetprogramming",
 				"path": "./syntaxes/asp.tmLanguage"
 			}
 		]

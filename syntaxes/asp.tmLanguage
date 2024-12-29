@@ -5,7 +5,7 @@
     <key>name</key>
     <string>asp</string>
     <key>scopeName</key>
-    <string>source.asp</string>
+    <string>source.answersetprogramming</string>
     <key>patterns</key>
     <array>
       <dict>
