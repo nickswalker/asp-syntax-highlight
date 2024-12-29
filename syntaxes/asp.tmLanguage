@@ -4,8 +4,6 @@
   <dict>
     <key>name</key>
     <string>asp</string>
-    <key>scopeName</key>
-    <string>source.answersetprogramming</string>
     <key>patterns</key>
     <array>
       <dict>
@@ -230,5 +228,9 @@
         </array>
       </dict>
     </dict>
+    <key>scopeName</key>
+    <string>source.answersetprogramming</string>
+    <key>uuid</key>
+	  <string>01C89A68-1406-42FE-B784-609FAACD9CF9</string>
   </dict>
 </plist>
